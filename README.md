@@ -35,4 +35,13 @@ pip install -r requirements.txt
 streamlit run Ncopy_test_demo.py
 ```
 
-# 
+# 데모 페이지 예시
+
+![Cap 2024-05-28 15-24-50-259](https://github.com/privateInt/Ncopy/assets/95892797/95678ae2-8006-4bd0-ab37-3c088c40c0f2)
+
+![Cap 2024-05-28 15-24-59-237](https://github.com/privateInt/Ncopy/assets/95892797/d046cd81-61b1-4048-bd84-b053a8397e1f)
+
+![Cap 2024-05-28 15-25-12-083](https://github.com/privateInt/Ncopy/assets/95892797/54de0e8f-cd38-4af9-84ba-80e1bce1b4c0)
+
+![Cap 2024-05-28 15-25-18-634](https://github.com/privateInt/Ncopy/assets/95892797/bedeabbe-703c-4cea-9151-2b64be278944)
+
