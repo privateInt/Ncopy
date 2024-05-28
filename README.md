@@ -7,3 +7,9 @@
 ```sh
 pip install -r requirements.txt
 ```
+
+# 데모 페이지 실행
+
+```sh
+streamlit run Ncopy_test_demo.py
+```
