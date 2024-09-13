@@ -1,6 +1,6 @@
 # 프로젝트 목적
 
-- 사용자 입력값(상품, 키워드, 톤앤매너, 연령, 성별)을 LLM API(naver hyper clova)에 전달하여 해당 광고 카피 생성할 수 있도록 prompt engineering 테스트
+- 사용자 입력값(상품, 키워드, 톤앤매너, 연령, 성별)을 LLM API(naver hyper clova)에 전달하여 해당 광고 카피 생성할 수 있도록 prompt engineering 테스트 
 
 # 실험 내용
 
